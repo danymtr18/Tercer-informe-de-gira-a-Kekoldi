@@ -1,0 +1,8 @@
+name: "My-website"
+navbar:
+  title: "Tercer Informe de Gira a Kèköldi"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Bibliografia"
+      href: about.html
